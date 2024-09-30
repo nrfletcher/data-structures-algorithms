@@ -1,2 +1,2 @@
-# data-structures-algorithms
-A repository of various data structure and algorithm implementations in C
+## Data Structures, Algorithms, & Common Technical Patterns
+This repository serves as a collection of implementations of various common DSA topics, as well as common technical interview patterns.
